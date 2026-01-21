@@ -5,7 +5,7 @@ const Companies = () => {
   const categories = [
     { name: "Full Stack", icon: <Code2 size={20} /> },
     { name: "Mobile App", icon: <Smartphone size={20} /> },
-    { name: "Python", icon: <Terminal size={20} /> },
+    { name: "Data Anaylst", icon: <Terminal size={20} /> },
     { name: "Cloud / DevOps", icon: <Cloud size={20} /> },
     { name: "Cyber Security", icon: <ShieldCheck size={20} /> },
     { name: "Data Science", icon: <BarChart3 size={20} /> }
